@@ -1,0 +1,38 @@
+html {
+    background-color: #00539f;
+}
+
+p{
+    font-size: 120%;
+    color: blue;
+    line-height: 2;
+    text-shadow: 1px 2px 1px #00539f;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+h1:hover{
+    background-color: aqua;
+}
+
+h1{
+    margin:0 0 20px 0;
+    padding: 20px 0;
+    text-align: center;
+}
+img{
+    width: 150px;
+}
+
+body{
+    font-family: 'Kosugi', sans-serif;
+    font-size: 15px;
+    width:600px;
+    padding: 0 20px 20px 20px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    border: 5px solid black;
+}
